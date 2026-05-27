@@ -4,8 +4,8 @@ This is a clean, responsive, and modern solution to the Huddle landing page with
 
 ## Links
 
-- **Solution URL:** [https://github.com/veon321/Huddle-landing-page](https://github.com/veon321/Huddle-landing-page)
-- **Live Site URL:** [https://veon321.github.io/Huddle-landing-page/](https://veon321.github.io/Huddle-landing-page/)
+- **Solution URL:** [https://github.com/veon321/Huddle-landing-page-with-a-single-introductory-section](https://github.com/veon321/Huddle-landing-page-with-a-single-introductory-section)
+- **Live Site URL:** [https://veon321.github.io/Huddle-landing-page-with-a-single-introductory-section/](https://veon321.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## Built with
 
